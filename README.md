@@ -8,3 +8,14 @@
 * Built a client facing API using flask 
 
 ![](/images/positions_by_state.png)
+
+At least 4 project
+The more, the better, generally
+More unique, interesting
+
+1. Regression
+2. Classification
+3. Clustering
+4. Deep Learning
+5. NLP
+6. Computer vision
